@@ -31,7 +31,7 @@ class CustomFontViewController: UIViewController {
 //    }
 
 //    private func setupImage() {
-//        let metric = UIFontMetrics(forTextStyle: .body).scaledValue(for: 60)
+//        let metric = UIFontMetrics(forTextStyle: .body).scaledValue(for: 40)
 //        imageHeight.constant = metric
 //        imageWidth.constant = metric
 //    }
